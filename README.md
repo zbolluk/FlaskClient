@@ -1,7 +1,3 @@
-# Start Code for Task 3
-
-AI & the Web, winter term 2024/2025
-
 ## Running the code on your development server
 
 1. Create and activate a virtual environment, install everything from requirements.txt
@@ -39,7 +35,7 @@ Don't forget to adjust the variables in the client code.
 You don't need to run the hub but use the public hub:
 
 http://vm146.rz.uni-osnabrueck.de/hub
-SERVER_AUTHKEY = 'Crr-K24d-2N'
+SERVER_AUTHKEY = '???'
 
 You don't need to start your channel explicitly because the Apache server will do that for you.
 
