@@ -21,22 +21,4 @@
 6. Open the client, link is displayed after client start (e.g., http://localhost:5005)
 
 
-## Creating your own client
-
-1. Set variables in the client code
-2. Modify the code
-
-# Deploying on the server
-
-Follow the same steps as for task 2.
-
-Don't forget to adjust the variables in the client code. 
-
-You don't need to run the hub but use the public hub:
-
-http://vm146.rz.uni-osnabrueck.de/hub
-SERVER_AUTHKEY = '???'
-
-You don't need to start your channel explicitly because the Apache server will do that for you.
-
 But don't forget to register your channel server with the hub (see above).
